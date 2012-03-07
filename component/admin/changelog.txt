@@ -1,0 +1,30 @@
+V1.2.9
+1.Ignore numeric tags option.
+2.Min tag length option.
+3.Module Class Suffix.
+4.urlencode.(Modules utf-8 url bug fix)
+
+V1.3.0
+1. Filtering the entire contents of articles in Tag Manager.
+2. Auto extract meta keys as tags.
+3. Fix tag html formatted description bug.
+4. Fix bug:Undefined property: stdClass::$checked_out in /Applications/MAMP/htdocs/itilabs/libraries/joomla/html/html/grid.php
+5. Fix term name can't update bug.
+4. Related articles by tags.
+5. Random tag cloud.
+6. Custom tag cloud.
+
+v1.3.1
+1. Fix bug:Missing argument 3...
+2. Allow Term description html format input.
+3. Fix term weight bug.
+4. Adding site name to tag title.
+5. Fix database prefix(jos_) bug.
+6. Relace the blank with dash(-) in url building.
+7. Fix related articles taken from one tag only ..
+8. Fix tag wrap line problem.(Some templates may not auto wrap line tags before).
+
+V1.3.2
+1.Fix url problems.Since 1.3.1, we have relaced the blank with dash(-), which caused a lot bugs.
+2.Fix term mix-case bug.
+3.Add an option to strip illegal chars.

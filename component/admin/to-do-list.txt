@@ -1,0 +1,23 @@
+
+1.settings page would better look and be comfortable not separate but as one more page in control panel.
+2.add the option to suppress the specail keywords in the related articles.
+
+3.add tags alais
+5.No modules after clicking tag link
+4.Tag manager always back to the first page problem.
+6.Perhaps we can add an option to show as list or cloud in the feature.
+7.An order option to Related Articles
+8.An option to tags order(Just as inputed, not alphabit)
+9. suppress certain keywords from related articles feature
+10.AllTags pagination
+ 11.rss tags  
+ 12. Related articles in h3 to css
+ 13. Rleated Articles to language file.
+ 
+(done). Specail chars filter before saving tags.(like ,~#-etc).
+
+
+(done)Auto extract metaTags to tags;
+(done)Show related articles by tags.
+(done)Random tags modules.
+(done)Custom tag cloud.
